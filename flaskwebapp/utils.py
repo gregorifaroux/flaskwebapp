@@ -1,4 +1,3 @@
-from flaskwebapp import app
 
 def count_vowels(sentence: str) -> dict:
     """Return list of vowels found in sentence"""
